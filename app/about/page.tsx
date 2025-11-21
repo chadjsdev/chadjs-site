@@ -52,7 +52,7 @@ export default function AboutPage() {
                 About Me
               </h1>
               <p className="text-lg text-gray-700 mb-4">
-                I'm Chad Scoville, a Senior Software Developer and DevSecOps Engineer with over 10 years 
+                I&apos;m Chad Scoville, a Senior Software Developer and DevSecOps Engineer with over 10 years
                 of experience building secure, compliant solutions for government and enterprise clients.
               </p>
               <p className="text-lg text-gray-700 mb-4">
@@ -99,9 +99,9 @@ export default function AboutPage() {
                 Current Focus: CMMC & Government Contracting
               </h3>
               <p className="text-gray-700 mb-4">
-                I'm actively pursuing CMMC (Cybersecurity Maturity Model Certification) credentials 
-                and building expertise in government contracting services. With Level 2 CMMC assessments 
-                ranging from $30,000-$150,000 per client, I'm positioning myself to provide comprehensive 
+                I&apos;m actively pursuing CMMC (Cybersecurity Maturity Model Certification) credentials
+                and building expertise in government contracting services. With Level 2 CMMC assessments
+                ranging from $30,000-$150,000 per client, I&apos;m positioning myself to provide comprehensive
                 compliance assessment and implementation services to DoD contractors.
               </p>
               <p className="text-gray-700">
@@ -115,8 +115,8 @@ export default function AboutPage() {
               <div>
                 <h4 className="text-xl font-bold text-gray-900 mb-3">Technical Leadership</h4>
                 <p className="text-gray-700">
-                  Over 10 years of experience in full-stack development, with deep expertise in 
-                  cloud infrastructure and security. I've built systems handling sensitive data 
+                  Over 10 years of experience in full-stack development, with deep expertise in
+                  cloud infrastructure and security. I&apos;ve built systems handling sensitive data
                   in regulated environments, always with security and compliance as primary concerns.
                 </p>
               </div>
@@ -220,7 +220,7 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="bg-gradient-to-br from-primary-600 to-primary-700 rounded-2xl p-12 text-center text-white">
             <Mail className="w-12 h-12 mx-auto mb-6" />
-            <h2 className="text-3xl font-bold mb-4">Let's Work Together</h2>
+            <h2 className="text-3xl font-bold mb-4">Let&apos;s Work Together</h2>
             <p className="text-xl text-primary-100 mb-8 max-w-2xl mx-auto">
               Available for government contracting opportunities in the Northern Virginia area. 
               Specializing in CMMC assessment, FedRAMP compliance, and secure cloud infrastructure.
